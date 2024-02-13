@@ -1,4 +1,4 @@
-### Hi and Wellcome 👋
+<h3> Hi and Wellcome 👋 </h3>
 
 <hr> 
 
@@ -6,7 +6,7 @@
         <p align ="center">
             <img src="https://wakatime.com/share/@018ca161-c839-40b8-923b-d2ef749cd082/cd707b87-c3e0-4da3-8394-70de64bddb96.svg" height="450"\>
         </p>
-    
+        
 <hr>
 <!--
 **pedx-ko/pedx-ko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
