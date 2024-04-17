@@ -8,6 +8,11 @@
         </p>
         
 <hr>
+
+HTML
+<figure>
+<embed src="https://wakatime.com/share/@018ca161-c839-40b8-923b-d2ef749cd082/0d33332f-be6c-4097-9332-a37e22d90501.svg"></embed>
+</figure> 
 <!--
 **pedx-ko/pedx-ko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
