@@ -1,30 +1,13 @@
-<h3> Hi and Wellcome 👋 </h3>
+
+<h3 style="color: var(--text-color); background-color: var(--background-color); text-align: center;"> Hi and Wellcome 👋 </h3>
 <hr> 
 
 <p align="center">
-  <img src="https://wakatime.com/share/@018ca161-c839-40b8-923b-d2ef749cd082/0d33332f-be6c-4097-9332-a37e22d90501.svg" alt="Wakatime Coding Activity Chart"/>
+  <img src="https://wakatime.com/share/@018ca161-c839-40b8-923b-d2ef749cd082/0d33332f-be6c-4097-9332-a37e22d90501.svg" alt="Wakatime Coding Activity Chart"  />
 </p>
 <hr>
 
-<style>
-:root {
-  --text-color: black; 
-  --background-color: white; 
-}
-
-h3 {
-  color: var(--text-color);
-  background-color: var(--background-color);
-  text-align: center;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --text-color: white;  
-    --background-color: #222; 
-  }
-}
-</style>
+<a href="https://wakatime.com/@018ca161-c839-40b8-923b-d2ef749cd082"><img src="https://wakatime.com/badge/user/018ca161-c839-40b8-923b-d2ef749cd082.svg" alt="Total time coded since Dec 25 2023" /></a>
 
 
 <!--
