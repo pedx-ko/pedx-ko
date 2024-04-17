@@ -4,7 +4,7 @@
 
         Language Statics
         <p align ="center">
-            <img src="https://wakatime.com/share/@018ca161-c839-40b8-923b-d2ef749cd082/cd707b87-c3e0-4da3-8394-70de64bddb96.svg" height="450"\>
+          <figure><embed src="https://wakatime.com/share/@018ca161-c839-40b8-923b-d2ef749cd082/0d33332f-be6c-4097-9332-a37e22d90501.svg"></embed></figure>
         </p>
         
 <hr>
