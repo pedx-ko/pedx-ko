@@ -1,15 +1,32 @@
 <h3> Hi and Wellcome 👋 </h3>
-
 <hr> 
-<!-- <details> -->
-  <!-- <summary> Language Statics </summary> -->
 
-  <p aling = "center">
-  <img src="https://wakatime.com/share/@018ca161-c839-40b8-923b-d2ef749cd082/0d33332f-be6c-4097-9332-a37e22d90501.svg"    alt="Wakatime Coding Activity Chart" height="200" />
-  </p>
-
-<!-- </details> -->
+<p align="center">
+  <img src="https://wakatime.com/share/@018ca161-c839-40b8-923b-d2ef749cd082/0d33332f-be6c-4097-9332-a37e22d90501.svg" alt="Wakatime Coding Activity Chart"/>
+</p>
 <hr>
+
+<style>
+:root {
+  --text-color: black; 
+  --background-color: white; 
+}
+
+h3 {
+  color: var(--text-color);
+  background-color: var(--background-color);
+  text-align: center;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text-color: white;  
+    --background-color: #222; 
+  }
+}
+</style>
+
+
 <!--
 **pedx-ko/pedx-ko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
