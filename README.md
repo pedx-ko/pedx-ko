@@ -2,7 +2,7 @@
 
 <div style="color: var(--text-color); background-color: var(--background-color); text-align: center; margin-bottom: 20px;"> 
   <h1>Hi and Welcome 👋</h1>
-  <p>I'm currently learning to code!</p> 
+  <p>I'm currently learning how to code!</p> 
 </div> 
 
 <hr>
