@@ -38,13 +38,7 @@ A versatile IT professional with 5+ years of experience, transitioning into soft
 ### 🗂️ Task Tracker: Your Personal Daily Planner
 [GitHub Repository](https://github.com/pedx-ko/DailyDrive)
 
-A comprehensive task management application designed to help users organize their daily activities efficiently. Built with Python and Flask, it offers intuitive interfaces for creating, tracking, and completing tasks.
-
-**Key Features:**
-- User-friendly task creation and management
-- Priority setting and deadline tracking
-- Progress visualization with charts and statistics
-- Mobile-responsive design for on-the-go access
+A Python-based application designed to help you stay focused and organized by managing your daily tasks efficiently.
 
 **Tech Stack:** Python, pandas, tkinter, datetime
 
