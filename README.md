@@ -1,47 +1,85 @@
+# 👋 Hello, I'm Pedro Rodriguez
 
+A versatile IT professional with 5+ years of experience, transitioning into software development. Passionate about leveraging technology to optimize daily living processes.
 
-<div style="color: var(--text-color); background-color: var(--background-color); text-align: center; margin-bottom: 20px;"> 
-  <h1>Hi and Welcome 👋</h1>
-  <p>I'm currently learning how to code!</p> 
-</div> 
-
-<hr>
-
-**GitHub Stats**
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=pedx-ko&show_icons=true" /> 
-
-<p align="center"> 
-  <img src="https://wakatime.com/share/@018ca161-c839-40b8-923b-d2ef749cd082/0d33332f-be6c-4097-9332-a37e22d90501.svg" alt="Wakatime Coding Activity Chart" />
-</p>
-
-<hr> 
-
-<p> Coding time :</p> <a href="https://wakatime.com/@018ca161-c839-40b8-923b-d2ef749cd082"> 
+<a href="https://wakatime.com/@018ca161-c839-40b8-923b-d2ef749cd082">
   <img src="https://wakatime.com/badge/user/018ca161-c839-40b8-923b-d2ef749cd082.svg" alt="Total time coded since Dec 25 2023" />
 </a>
 
+## 🚀 Current Focus
+- Expanding skills in Python and Docker
+- Building projects with Flask and API integrations
+- Exploring AI technologies: Autogen, Crew AI, Langchain, OpenAI API
 
-<!--
-**pedx-ko/pedx-ko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-:root {
-  --text-color: black; 
-  --background-color: white; 
-}
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --text-color: white;  
-    --background-color: #222; 
-  }
-}
-Here are some ideas to get you started:
+## 💻 Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔧 Skills
+- IT Support & Troubleshooting
+- Software Development
+- System Administration
+- Cloud Technologies
+- Agile Methodologies
+
+## 🌟 Featured Projects
+
+### 🗂️ Task Tracker: Your Personal Daily Planner
+[GitHub Repository](https://github.com/pedx-ko/DailyDrive)
+
+A comprehensive task management application designed to help users organize their daily activities efficiently. Built with Python and Flask, it offers intuitive interfaces for creating, tracking, and completing tasks.
+
+**Key Features:**
+- User-friendly task creation and management
+- Priority setting and deadline tracking
+- Progress visualization with charts and statistics
+- Mobile-responsive design for on-the-go access
+
+**Tech Stack:** Python, pandas, tkinter, datetime
+
+### 📚 Private Projects: Deutsch Tester
+<details>
+<summary>Click to view the image</summary>
+
+<img src="https://drive.google.com/uc?id=14uCFWYraq7ScxsPBrLYOAG5ssMDAzZjK" style="max-width: 100%; height: auto;">
+
+</details>
+
+*Note: Some projects are kept private due to confidentiality agreements. The image above represents a sample of my work without disclosing sensitive information.*
+
+**Project Overview:**
+Deutsch Tester is a Python application that helps you practice your German language skills by matching words and calculating the percentage of similarity between input words and a predefined word list.
+
+**Tech Stack:** Python, pandas, Flask, threading, JavaScript
+
+
+
+## 📊 Coding Activity
+
+<details>
+<summary>Click to expand</summary>
+
+<div style="width: 400px; overflow: hidden;">
+    <img src="https://wakatime.com/share/@018ca161-c839-40b8-923b-d2ef749cd082/4a86c2e8-bb35-4206-84b4-2a9da9d83687.svg" style="max-width: 100%; height: auto;">
+</div>
+
+</details>
+
+
+## 📫 Let's Connect!
+I’m really eager to learn and grow alongside other developers and tech enthusiasts. If you have any tips or just want to chat, feel free to reach out!
+
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pdar2)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/pedx-ko)
