@@ -1,48 +1,49 @@
 # 👋 Hello, I'm Pedro Rodriguez
 
-A versatile IT professional with 5+ years of experience, transitioning into software development. Passionate about leveraging technology to optimize daily living processes.
+IT professional with 8+ years of experience in technical support, workplace IT, and process automation. Since 2023, I've been building tools with Python and deploying containerised services. Particularly interested in AI systems and agentic workflows — experimenting with local LLMs, RAG pipelines, and multi-agent orchestration.
 
 <a href="https://wakatime.com/@018ca161-c839-40b8-923b-d2ef749cd082">
   <img src="https://wakatime.com/badge/user/018ca161-c839-40b8-923b-d2ef749cd082.svg" alt="Total time coded since Dec 25 2023" />
 </a>
 
 ## 🚀 Current Focus
-- Expanding skills in Python and Docker
-- Building projects with Flask and API integrations
-- Exploring AI technologies: Autogen, Crew AI, Langchain, OpenAI API
-
+- Python automation: scripting, APIs, and workflow tools
+- Containerised applications with Docker & Docker Compose
+- Local LLMs via Hugging Face, agentic workflows (LangChain, LangGraph)
+- Building production-ready services with FastAPI & Python
 
 ## 💻 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
-
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
 ## 🔧 Skills
-- IT Support & Troubleshooting
-- Software Development
-- System Administration
-- Cloud Technologies
-- Agile Methodologies
+- Process Automation & Scripting (Python, VBA, Bash)
+- Containerisation & Deployment (Docker, Compose, Linux, SSH)
+- Web Scraping & API Integration (Playwright, Scrapy, REST APIs)
+- Local AI / LLM Pipelines (Hugging Face, LangChain, LangGraph)
+- IT Operations & Workplace Support (Planon, Office COM)
+- Platforms: macOS & Windows (daily use), Linux (CLI, package management, basic admin)
 
 ## 🌟 Featured Projects
 
-### 🗂️ Task Tracker: Your Personal Daily Planner
+### Spreli — Live Multilingual Transcription & Translation
+Private project — a production service for real-time church sermon translation into multiple languages. Built with Python, FastAPI, LLM APIs, speech-to-text, and TTS. Containerised with Docker, Redis, and Nginx.
+
+### 🗂️ Task Tracker: DailyDrive
 [GitHub Repository](https://github.com/pedx-ko/DailyDrive)
 
-A Python-based application designed to help you stay focused and organized by managing your daily tasks efficiently.
+A Python-based daily task manager built with pandas, tkinter, and datetime. Designed to stay focused and organized.
 
-**Tech Stack:** Python, pandas, tkinter, datetime
-
-### 📚 Private Projects: Deutsch Tester
+### 📚 Deutsch Tester
 <details>
 <summary>Click to view the image</summary>
 
@@ -50,30 +51,14 @@ A Python-based application designed to help you stay focused and organized by ma
 
 </details>
 
-*Note: Some projects are kept private due to confidentiality agreements. The image above represents a sample of my work without disclosing sensitive information.*
+A Python tool to practise German writing for the B1 exam — validates word choices, shows accuracy percentage, and provides instant feedback.
 
-**Project Overview:**
-Deutsch Tester is a Python application that helps you practice your German language skills by matching words and calculating the percentage of similarity between input words and a predefined word list.
+**Tech Stack:** Python, pandas, Flask, threading, JavaScript, AI
 
-**Tech Stack:** Python, pandas, Flask, threading, JavaScript
-
-
-
-## 📊 Coding Activity
-
-<details>
-<summary>Click to expand</summary>
-
-<div style="width: 400px; overflow: hidden;">
-    <img src="https://wakatime.com/share/@018ca161-c839-40b8-923b-d2ef749cd082/4a86c2e8-bb35-4206-84b4-2a9da9d83687.svg" style="max-width: 100%; height: auto;">
-</div>
-
-</details>
 
 
 ## 📫 Let's Connect!
-I’m really eager to learn and grow alongside other developers and tech enthusiasts. If you have any tips or just want to chat, feel free to reach out!
-
+Always eager to learn and collaborate. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pdar2)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/pedx-ko)
